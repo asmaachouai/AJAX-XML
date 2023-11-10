@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<isga>
+  <local>
+    <id>S01</id>
+    <cap>40</cap>
+  </local>
+  <local>
+    <id>S02</id>
+    <cap>50</cap>
+  </local>
+  <local>
+    <id>B12</id>
+    <cap>80</cap>
+  </local>
+  <local>
+    <id>C01</id>
+    <cap>200</cap>
+  </local>
+</isga>
